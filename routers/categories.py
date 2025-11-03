@@ -1,0 +1,1 @@
+# ZADACA 2: FastAPI pozivi za categories
